@@ -1,0 +1,82 @@
+# Apple macOS
+.apdisk
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.com.apple.timemachine.donotpresent
+.DocumentRevisions-V100
+.DS_Store
+.fseventsd
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+Network Trash Folder
+Temporary Items
+
+# Linux
+.directory
+.fuse_hidden*
+.nfs*
+.Trash-*
+*~
+
+# Microsoft Windows
+[Dd]esktop.ini
+*.stackdump
+$RECYCLE.BIN/
+ehthumbs_vista.db
+ehthumbs.db
+Thumbs.db
+Thumbs.db:encryptable
+
+# Apple Xcode
+xcuserdata/
+
+# JetBrains
+.idea_modules/
+.idea/**/aws.xml
+.idea/**/contentModel.xml
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/dataSources/
+.idea/**/dbnavigator.xml
+.idea/**/dictionaries
+.idea/**/dynamic.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/mongoSettings.xml
+.idea/**/shelf
+.idea/**/sqlDataSources.xml
+.idea/**/tasks.xml
+.idea/**/uiDesigner.xml
+.idea/**/usage.statistics.xml
+.idea/**/workspace.xml
+.idea/caches/build_file_checksums.ser
+.idea/httpRequests
+.idea/replstate.xml
+.idea/sonarlint/
+*.iws
+atlassian-ide-plugin.xml
+cmake-build-*/
+com_crashlytics_export_strings.xml
+crashlytics-build.properties
+crashlytics.properties
+fabric.properties
+out/
+
+# Microsoft Visual Studio Code
+.history/
+.vscode/
+*.vsix
+
+# Apache NetBeans
+.nb-gradle/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+**/nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
